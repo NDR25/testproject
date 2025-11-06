@@ -155,7 +155,7 @@ folders_in = [
     '_static/js/custom.js',
     '_static/favicon.ico',
     '_static/header.rst',
-    'C:\Users\NDR\Downloads\soundglass_2.png',
+    'docs/soundglass_2.png',
     ]
 
 def download_files_from_gallery(link, folders_in):
